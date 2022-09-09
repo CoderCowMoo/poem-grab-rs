@@ -1,2 +1,2 @@
 # poem-grab-rs
-My poem grab project but in Rust
+My [Go poem grab](https://github.com/CoderCowMoo/poem-a-day) project but in Rust
